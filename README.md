@@ -20,7 +20,7 @@ Used json-server (http://localhost:5000/plans)
 +Explanation of the UI:
 1.Login page already exists. When click on Login Page , redirects to CustomerPlan.
 2.The Customer Plan component is a React functional component responsible for displaying a list of plans and allowing users to perform actions like renewing or deleting a plan.
-3.The component uses Ant Design for UI components, Axios for making HTTP requests, and plans1.json for sample data.
+3.The component uses Ant Design for UI components, Axios for making HTTP requests, and data fetched from JSON Server.
 4.The unit test case ensures that the component behaves as expected by simulating user interactions and API calls and making assertions about the rendered UI and expected behavior.
 5.The test case checks if the plans table is rendered, actions trigger modals correctly, API requests are made, and error handling works as expected.
 6.I have used JSON server for API calls.
