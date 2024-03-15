@@ -23,7 +23,7 @@ Used json-server (http://localhost:5000/plans)
 3.The component uses Ant Design for UI components, Axios for making HTTP requests, and plans1.json for sample data.
 4.The unit test case ensures that the component behaves as expected by simulating user interactions and API calls and making assertions about the rendered UI and expected behavior.
 5.The test case checks if the plans table is rendered, actions trigger modals correctly, API requests are made, and error handling works as expected.
-6.I have used JSON server for API calls, Didn't get much time to move to Python.
+6.I have used JSON server for API calls.
 
 
 ### `npm test`
