@@ -1,0 +1,27 @@
+.header {
+    background-image: url("../assets/header.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .header__container {
+    padding: 5rem 1rem 10rem;
+  }
+  
+  .header__container h1 {
+    /* margin-bottom: 4rem; */
+    max-width: 1000px;
+    margin-inline: auto;
+    font-size: 3.5rem;
+    color: var(--white);
+    text-align: left;
+  }
+  
+  .header__form {
+    padding: 2rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    margin-bottom: 4rem;
+    margin-top: 6rem;
+  }

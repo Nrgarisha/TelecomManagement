@@ -1,0 +1,20 @@
+[
+  {
+    "planName": "Platinum365",
+    "planCost": 499,
+    "validity": 365,
+    "planStatus": "Active"
+  },
+  {
+    "planName": "Gold180",
+    "planCost": 299,
+    "validity": 180,
+    "planStatus": "Active"
+  },
+  {
+    "planName": "Silver90",
+    "planCost": 199,
+    "validity": 90,
+    "planStatus": "Active"
+  }
+]
